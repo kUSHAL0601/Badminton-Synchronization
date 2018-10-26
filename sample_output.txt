@@ -1,0 +1,91 @@
+Starting P1
+P1 entering at time Sat Oct 27 03:33:22 2018
+P1 meeting organizer at time Sat Oct 27 03:33:22 2018
+P1 tries to enter court
+Starting P2
+P2 entering at time Sat Oct 27 03:33:24 2018
+P2 meeting organizer at time Sat Oct 27 03:33:24 2018
+P2 tries to enter court
+Starting R1
+R1 entering at time Sat Oct 27 03:33:24 2018
+R1 meeting organizer at time Sat Oct 27 03:33:24 2018
+P1 P2 R1
+P1 wait over
+R1 adjusting equipments
+P1 warming up
+P2 warming up
+P2 wait over
+P2 Waiting 2
+P2 exiting
+R1 exiting
+Starting P3
+P3 entering at time Sat Oct 27 03:33:25 2018
+P1 P2 R1
+Starting P4
+P4 entering at time Sat Oct 27 03:33:25 2018
+Starting game between P1 P2 under refree R1 at time Sat Oct 27 03:33:25 2018
+P3 meeting organizer at time Sat Oct 27 03:33:25 2018
+P3 tries to enter court
+P1 P2 R1
+P4 meeting organizer at time Sat Oct 27 03:33:25 2018
+P4 tries to enter court
+Starting R2
+R2 entering at time Sat Oct 27 03:33:26 2018
+R2 meeting organizer at time Sat Oct 27 03:33:26 2018
+P1 P2 R1
+Game between P1 P2 under refree R1 ended Sat Oct 27 03:33:27 2018
+Player P1 leaving
+Player P2 leaving
+Refree R1 leaving
+P1 exiting
+Starting P5
+P5 entering at time Sat Oct 27 03:33:28 2018
+P5 meeting organizer at time Sat Oct 27 03:33:28 2018
+P5 tries to enter court
+P3 P4 R2
+Starting P6
+P6 entering at time Sat Oct 27 03:33:28 2018
+P6 meeting organizer at time Sat Oct 27 03:33:28 2018
+P6 tries to enter court
+P4 wait over
+P4 Waiting 2
+P4 exiting
+R2 exiting
+P3 wait over
+P3 P4 R2
+R2 adjusting equipments
+P3 warming up
+P4 warming up
+Starting game between P3 P4 under refree R2 at time Sat Oct 27 03:33:29 2018
+Starting R3
+R3 entering at time Sat Oct 27 03:33:30 2018
+R3 meeting organizer at time Sat Oct 27 03:33:30 2018
+P3 P4 R2
+Game between P3 P4 under refree R2 ended Sat Oct 27 03:33:31 2018
+Player P3 leaving
+Player P4 leaving
+Refree R2 leaving
+P3 exiting
+Starting P7
+P7 entering at time Sat Oct 27 03:33:32 2018
+P7 meeting organizer at time Sat Oct 27 03:33:32 2018
+P7 tries to enter court
+P5 P6 R3
+Starting P8
+P8 entering at time Sat Oct 27 03:33:32 2018
+P8 meeting organizer at time Sat Oct 27 03:33:32 2018
+P8 tries to enter court
+P5 wait over
+P6 wait over
+P6 Waiting 2
+P6 exiting
+R3 exiting
+P5 P6 R3
+R3 adjusting equipments
+P5 warming up
+P6 warming up
+Starting R4
+R4 entering at time Sat Oct 27 03:33:33 2018
+Starting game between P5 P6 under refree R3 at time Sat Oct 27 03:33:33 2018
+R4 meeting organizer at time Sat Oct 27 03:33:33 2018
+-----------Interrupted-----------------
